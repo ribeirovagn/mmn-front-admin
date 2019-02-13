@@ -1,8 +1,8 @@
 'use strict'
 module.exports = {
   NODE_ENV: '"production"',
-  API_ENDPOINT: '"http://api.navizone.com.br/v3"',
-  LOGIN_ENDPOINT: '"http://api.navizone.com.br/v3/oauth"',
+  API_ENDPOINT: '"http://api.navizone.com.br/admin"',
+  LOGIN_ENDPOINT: '"http://api.navizone.com.br/admin/oauth"',
   CLIENT_SECRET: '"k3TjMazXEJ99joynCLqvn534Rk85Dv4OSGsADm4r"',
   CLIENT_ID: '1',
   GRANT_TYPE: '"password"',
