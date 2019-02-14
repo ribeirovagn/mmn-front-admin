@@ -2,7 +2,7 @@
   <div class="all-wrapper menu-side with-pattern">
     <div class="auth-box-w">
       <div class="logo-w">
-
+        <img src="https://s3.amazonaws.com/navi-public/api/logo.png" width="120">
       </div>
       <h4 class="auth-header">Login Form</h4>
       <form v-on:submit.prevent="Login">
